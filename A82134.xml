@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the counties of Kent and Essex in pursuance of their petitions concerning the Kings Majesty. The further proceedings of the petitioners of the county of Surrey, and newes from Kingston. With a letter from Burry, concerning seven hundred of the townes-men taking up armes to defend themselves, and their declaration thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82134</idno>
+            <idno type="STC">Wing D658</idno>
+            <idno type="STC">Thomason E443_9</idno>
+            <idno type="STC">ESTC R204713</idno>
+            <idno type="EEBO-CITATION">99864178</idno>
+            <idno type="PROQUEST">99864178</idno>
+            <idno type="VID">161706</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161706)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the counties of Kent and Essex in pursuance of their petitions concerning the Kings Majesty. The further proceedings of the petitioners of the county of Surrey, and newes from Kingston. With a letter from Burry, concerning seven hundred of the townes-men taking up armes to defend themselves, and their declaration thereupon.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "May. 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Essex (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161706:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>A DECLARATION Of the Counties of KENT AND ESSEX In purſuance of their Petitions concerning the <hi>Kings Majesty.</hi>
+            </p>
+            <p>The further proceedings of the Petitioners of the County of <hi>Surrey,</hi> and Newes from <hi>Kingston.</hi>
+            </p>
+            <p>With a Letter from <hi>Burry,</hi> concerning ſeven hundred of the Towneſ-men taking up Armes to defend themſelves, and their Declaration thereupon.</p>
+            <figure>
+               <head>C R</head>
+               <figDesc>royal insignia</figDesc>
+            </figure>
+            <p>
+               <date>
+                  <add>MAy 18th</add>
+               </date>
+               <hi>London,</hi> Printed by <hi>B. A.</hi> MDCXLVIII</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_uprising">
+            <pb facs="tcp:161706:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb facs="tcp:161706:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>An exact RELATION OF The late riſing at <hi>Bury,</hi> and ſeven hundred men in Armes keeping the towne.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON Fryday laſt here began a great combuſtion in this town about ſetting up of a May-pole, which grew to that height, that by Satterday ſixe or ſeven hun<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> men were gotten into Armes; ſome of them cryed out; ſaying, <hi>they were for God and King Charles,</hi> and began to lay hold on ſome ſouldiers which were in town, &amp; ſet guards in ſeverall places, pretending they were in fear that the ſoul<g ref="char:EOLhyphen"/>diers would come in upon them, and diſarme them: ſome of thoſe which ſtood for the Parliament were forced to leave the town and their goods to ſhift for themſelves, and goe a<g ref="char:EOLhyphen"/>way to friends in the Country.</p>
+            <p>To appeaſe this combuſtion, ſome troopes of horſe which were quartered in theſe parts were drawn before the towne, and finding the townſmen well armed and in a poſture of de<g ref="char:EOLhyphen"/>fence they kept in a body before the town all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat night; the
+<pb facs="tcp:161706:3"/>
+               <!-- PDF PAGE 27 -->next day many Country Foot joyned with them; by reaſon whereof kept in on every ſide; and when they perceived they had brought themſelves into a ſtraight, and had no meanes to recover themſelves, but by ſubmiſſion deſired a parley, which was granted, &amp; for want of better co<g ref="char:cmbAbbrStroke">̄</g>nditions (for indeed they could obtain no other they yeelded to mercy. And how much this will conduce to ſecuring them from what they preten<g ref="char:EOLhyphen"/>ded to be the greateſt part of their fear, <hi>viz.</hi> the loſing of their Arms, I leave to your judgment: However, we hope the event will be the peace and quiet of the town; which I hope is that which other places look after. Wee heare that the trayned Bands in <hi>Eſsex</hi> have had ſome meeting the laſt weeke, and in<g ref="char:EOLhyphen"/>tend a General Rendezvouz ſhortly, I pray God all things may be for the beſt. Sir, I am</p>
+            <closer>
+               <signed>Your obliged friend, <hi>R. S.</hi>
+               </signed>
+               <dateline>Bury <date>May 17. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>A Declaration of the Inhabitants of the County of <hi>Kent,</hi> to the Diſtorbers of the peace; ſubſcribed by twenty ſeven thou<g ref="char:EOLhyphen"/>ſand three hundred ſeventy three hands.</head>
+            <p>OBſerving with what diligence and expedition, Parties are drawne together, armed, and by whom; we cannot but de<g ref="char:EOLhyphen"/>mand; to what end? The Country is quiet, and deſires ſo to continue our Intereſt in peace, not rapine and bloodſhed: yet are we alſo re<g ref="char:EOLhyphen"/>ſolved not to fall tam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſacrifices to the ſpirit of ſlumber and de<g ref="char:EOLhyphen"/>luſion, and render up our Religions, Lawes, lives and fortunes upon ſuch cold conditi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns.</p>
+            <p>We muſt <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve leave to tell you, that a Petition, concluded on, and avowed by the univerſality of this County, repreſenting their honeſt deſires, in a modeſt way, to the two Houſes of Parliament,
+<pb facs="tcp:161706:3"/>
+               <!-- PDF PAGE 27 -->according to the practice, nay the approbation of this preſent Par<g ref="char:EOLhyphen"/>liament—That this Petition is by the moſt active in this new commotion, diſcountenanced and menaced, which makes us rea<g ref="char:EOLhyphen"/>ſonably ſuſpect whither thoſe deſigns may tend whereof they have the ſole conduct. Our addreſſes are to the Parliament, not you, and from them we ſhall await a ſeaſonable returne; our deſires being of a moment above your cognizance. That we labour for is peace; and in a peaceable manner: Nor can we without horrour think of a freſh imbroylment.</p>
+            <p>The Petition we do all own, affirming the ſcope thereof ſo inno<g ref="char:EOLhyphen"/>ten, that we dare deliver it up to heaven with our ſoules; and ſo determine to do, if thereunto reduced by any troubleſome interpo<g ref="char:EOLhyphen"/>ſition, till the great Councell of the Kingdome to whom onely and and properly it refers ſhall adviſe upon it. Wherefore to avoid the effect of jealouſies, (the fountaine of this la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e warre) we deſire al<g ref="char:EOLhyphen"/>ſo the cauſes may be removed, leaſt introductive to another.</p>
+            <p>When you have ſatisfied this ſcruple, you have obliged your friends.</p>
+         </div>
+         <div type="declaration">
+            <head>The Ingagement and Declaration of the Grand Jury, Free-holders, and other Inhabitants of the County of <hi>Eſsex,</hi> in proſecution of their late Petition, preſented to both Houſes of Par<g ref="char:EOLhyphen"/>liament, <date>May 4. 1648.</date>
+            </head>
+            <p>
+               <hi>WE the Grand Jury Free-holders, and other the Inhabitants of the ſaid County in proſe<g ref="char:EOLhyphen"/>cution of our ſaid Petition do ingage our ſelves one to another, and declare.</hi>
+            </p>
+            <pb facs="tcp:161706:4"/>
+            <!-- PDF PAGE 28 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:161706:4"/>
+            <!-- PDF PAGE 28 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:161706:5"/>
+            <!-- PDF PAGE 29 -->
+            <p n="1">1. That we will not pay any more Excize, or other taxes, till all the deſires expreſſed in our ſaid petition be fully obtained by us.</p>
+            <p n="2">2. That we will admit of no Souldiers to come into our County, but ſuch as agree with us in our ſaid petition and this engagement.</p>
+            <p n="3">3. That we will imploy our utmoſt endeavors to preſerve and defend our Royall Sovereigne King <hi>Charles,</hi> his Kingly Government, the Sub<g ref="char:EOLhyphen"/>jects liberty, and the known Lawes of the King<g ref="char:EOLhyphen"/>dome, that is to ſay, the Common and Statute Lawes, and will never ſubmit our ſelve to any other kind of Lawes, much leſſe to any arbitrary power whatſoever.</p>
+            <p n="4">4. That we will protect and defend one another and all that ſhall adhere to us, in the purſuance, performing, and keeping of this Ingagement, and if any Inhabitants of our County, ſhall refuſe to joyn with us herein, we ſhall eſteeme as a perſon diſaffected to the peace, and welfare of the ſam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+         <div type="propositions">
+            <pb facs="tcp:161706:5"/>
+            <!-- PDF PAGE 29 -->
+            <head>A Method of putting the County of Eſſex in a poſture Of Defence. Offered to the conſideration of the Gent. there<g ref="char:EOLhyphen"/>of and Trained Bands, at ther ſeverall Rendezvouz, and to all other of the Inhabitants, who ſhall meet in thoſe reſpec<g ref="char:EOLhyphen"/>tive places or elſe where in the ſaid County, in proſecuti<g ref="char:EOLhyphen"/>on of their Petition.</head>
+            <p n="1">
+               <hi>1.</hi> THat ſuch Officers may be choſen for the ſaid Trained Bands, as the County and the Pe<g ref="char:EOLhyphen"/>tioners may confide in, and that all ſuch Souldiers of the Trained Bands, who ſhall not approve of, and ſub<g ref="char:EOLhyphen"/>ſcribe to the Petition, be turned off, and others choſen to ſerve with their Arms in their places.</p>
+            <p n="2">
+               <hi>2.</hi> That the Earl of War wick be intreated to repair ſpeedily into the County that they may have one to com<g ref="char:EOLhyphen"/>mand in chief among them, and to conſult among them upon all ſudden accidents; and if his Lordſhips occaſion will not permit to come ſo requeſted, to depute ſuch a perſon to execute that charge as they ſhall approve of.</p>
+            <p n="3">
+               <hi>3.</hi> In regard the number contained in the trained Bands may not be thought competent for the ſecurity of the county, that ſuch Gentlemen thereof, in whom they may repoſe truſt, may have liberty to liſt thoſe perſons of the ſaid county well affected to the late Petition, who ſhall voluntary peeſent themſelves for the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſire of the ſame.</p>
+            <p n="4">
+               <hi>4,</hi> That a day may be appointed for <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ting of the
+<pb facs="tcp:161706:6"/>
+               <!-- PDF PAGE 30 -->trained. Bands, and a muſter made of all ſuch of the county as ſhal voluntary appear for the ſervice of it.</p>
+            <p n="5">
+               <hi>5.</hi> That in order to the ſafety of the county, the Sheriff, and Grand Jury be deſired to take care of the particu<g ref="char:EOLhyphen"/>lars.</p>
+            <p>
+               <hi>As for the report of a fight at Kingſton on Thames, and the like it proves to be of no validity: but altogether groundleſſe and no diſturbance there at all, but on Tueſday night, laſt a Gent. was robbed between Kingſton and Putney, which was done by 3 Horſemen in the habit of Souldiers, which are ap<g ref="char:EOLhyphen"/>prehended, whether they were of the Army or not doth not yet appear.</hi>
+            </p>
+            <p>
+               <hi>Some of the Country men which came with Surry petiti<g ref="char:EOLhyphen"/>on were taken into cuſtody at White-Hall: but are all diſchar<g ref="char:EOLhyphen"/>ged again, Some of the Country-men complaine of the loſſe of their mony and Cloakes, if they know who to accuſe for it, they will doubtleſſe have ſatisfaction.</hi>
+            </p>
+            <p>
+               <hi>Two of the Souldiers that were wounded in that commo<g ref="char:EOLhyphen"/>tion are ſince dead.</hi>
+            </p>
+            <p>
+               <hi>This preſent Thurſday the 19 of May there was a meetting at Brainford for election of a Knight of the ſheire to ſerve in Parliament inſtead of Sir</hi> Iohn Franklin <hi>deceaſed.</hi>
+            </p>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
